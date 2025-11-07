@@ -1,0 +1,35 @@
+Q: What is the company's remote work policy?
+A: The company's remote work policy allows employees to work from home up to three days per week, provided that they maintain productivity, attend required meetings, and comply with security protocols. Employees must obtain manager approval, adhere to designated online availability hours, and ensure sensitive data is accessed through secure VPN connections. There are no additional equipment provisions beyond standard-approved devices, and the policy is reviewed annually.
+
+Q: How can I request leave?
+A: Employees can request leave through the HR portal by selecting the leave type, dates, and providing a reason. Manager approval is required, and HR will send a confirmation email once the leave is approved. Leave balances are updated automatically, and employees can view their remaining days in the portal. Emergency leave requests should be communicated directly to HR and the manager.
+
+Q: What is the process for travel reimbursement?
+A: To request travel reimbursement, employees must submit itemized receipts through the expense management system within 30 days of travel completion. Accepted expenses include flights, accommodations, meals, and ground transportation. Managers review requests for policy compliance before forwarding to finance. Reimbursements are typically processed within ten business days after final approval.
+
+Q: Where can I find the code of conduct?
+A: The company code of conduct is available in the employee handbook located on the internal intranet. It covers professional behavior, anti-harassment guidelines, conflict of interest policies, and disciplinary procedures. Employees are required to review and acknowledge the code of conduct annually through the compliance training portal.
+
+Q: What security protocols should I follow?
+A: Employees must use strong passwords, enable multi-factor authentication, and lock their workstations when unattended. Sensitive data must be stored on encrypted drives, and file sharing should occur only through approved secure channels. Any security incidents must be reported immediately to the IT security team via the incident response system.
+
+Q: How do I generate reports in the dashboard?
+A: The platform dashboard includes a report builder where users can select metrics, filters, and visualization types. After configuring parameters, click "Generate Report" to view results in charts or tables. Reports can be exported as PDF or CSV for offline analysis. Users must have appropriate access permissions to view financial or confidential data.
+
+Q: How are user roles managed?
+A: User roles and permissions are administered through the admin portal. Administrators can assign predefined roles, customize access levels, and audit user permissions. Role changes take effect immediately. For temporary elevated access, employees should submit a request form specifying the duration and justification.
+
+Q: What are the data privacy guidelines?
+A: The company adheres to GDPR and CCPA regulations. Personal data should only be collected for legitimate business purposes and stored securely. Data retention policies specify how long information is kept and when it must be deleted. Employees handling personal data must complete annual privacy training and follow the data handling handbook.
+
+Q: How does the onboarding process work?
+A: New hires receive an onboarding packet via email, including account setup instructions, access credentials, and training schedules. The IT team provisions hardware, software licenses, and network access before the start date. Onboarding tasks are tracked in the HR system, and new employees meet with onboarding buddies and complete compliance modules within the first week.
+
+Q: What is the offboarding procedure?
+A: When an employee exits the organization, managers submit an offboarding request in the HR portal, triggering account deactivation, access revocation, and exit interview scheduling. IT collects company assets, and HR processes final compensation. All offboarding steps are audited to ensure security and compliance.
+
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident.
+
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus lacinia odio vitae vestibulum vestibulum. Cras venenatis euismod malesuada. Nullam ac erat ante. Pellentesque nec dignissim metus. Sed quis nulla condimentum, malesuada magna vel, malesuada turpis. Quisque sit amet suscipit erat. Proin finibus tortor id magna interdum, nec convallis odio vehicula. Suspendisse potenti. Integer aliquet orci in lectus hendrerit, vitae facilisis nulla accumsan. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia curae;
+
+Praesent tincidunt, nisl sit amet condimentum lacinia, justo neque mollis magna, non molestie urna tellus quis urna. Maecenas at mauris vitae arcu blandit elementum ut ut massa. Fusce ac mauris sed ex sodales commodo. Duis pretium dolor eu velit fermentum, sit amet laoreet sem venenatis. Aliquam erat volutpat. Fusce sagittis, tortor et dapibus facilisis, ex mauris vulputate lorem, vel ultricies felis lacus at nisl. Integer posuere tellus at erat aliquet, sit amet egestas lorem suscipit. Nulla facilisi.

@@ -1,0 +1,26 @@
+[
+  {
+    "user_question": "What is the remote work policy?",
+    "answer": "The company allows remote work up to three days per week with manager approval and security compliance.",
+    "sources": [
+      "The company's remote work policy allows employees to work from home up to three days per week, provided that they maintain productivity, attend required meetings, and comply with security protocols."
+    ],
+    "scores": [0.98]
+  },
+  {
+    "user_question": "How do I request leave?",
+    "answer": "Employees can request leave through the HR portal by selecting the leave type, dates, and providing a reason. Manager approval is required.",
+    "sources": [
+      "Employees can request leave through the HR portal by selecting the leave type, dates, and providing a reason. Manager approval is required, and HR will send a confirmation email once the leave is approved."
+    ],
+    "scores": [0.96]
+  },
+  {
+    "user_question": "What is the process for travel reimbursement?",
+    "answer": "Submit itemized receipts in the expense system. Reimbursements are processed within ten business days after approval.",
+    "sources": [
+      "To request travel reimbursement, employees must submit itemized receipts through the expense management system within 30 days of travel completion. Accepted expenses include flights, accommodations, meals, and ground transportation."
+    ],
+    "scores": [0.95]
+  }
+]
