@@ -82,7 +82,7 @@ Expected output:
 ## 📊 Data Provenance & Chunking Strategy
 
 - Source document: `data/faq_document.txt` contains company FAQ topics (policies, procedures, features).
-- Chunking: We split text into chunks of ~200 words to ensure at least 20 chunks and balance context size with embedding limits.
+- Chunking: We split text into chunks of ~50 words to ensure at least 20 chunks and balance context size with embedding limits.
 - Embeddings: Generated using the OpenAI `text-embedding-3-small` model (or configured via `EMBEDDING_MODEL`).
 
 ## 🔧 Component Implementation Details

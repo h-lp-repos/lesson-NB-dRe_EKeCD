@@ -3,7 +3,7 @@ import json
 from dotenv import load_dotenv
 import openai
 
-def chunk_text(text, chunk_size=200):
+def chunk_text(text, chunk_size=50):
     words = text.split()
     chunks = [" ".join(words[i:i+chunk_size]) for i in range(0, len(words), chunk_size)]
     return chunks
@@ -16,7 +16,7 @@ def generate_embeddings(chunks):
         embeddings.append(response["data"][0]["embedding"])
     return embeddings
 
-def build_index(text, chunk_size=200):
+def build_index(text, chunk_size=50):
     chunks = chunk_text(text, chunk_size)
     embeddings = generate_embeddings(chunks)
     return chunks, embeddings
@@ -28,7 +28,7 @@ if __name__ == "__main__":
     with open("data/faq_document.txt", "r") as f:
         text = f.read()
     # Build index
-    chunks, embeddings = build_index(text, chunk_size=200)
+    chunks, embeddings = build_index(text, chunk_size=50)
     # Prepare index data
     index_data = [{"chunk": c, "embedding": e} for c, e in zip(chunks, embeddings)]
     # Save index to file
